@@ -6,7 +6,6 @@ This repository implements a **Conversational Retrieval-Augmented Generation (RA
 - 🧠 **LLaMA3** (via **Groq API**) as the LLM
 - 📄 **PDF-based document ingestion**
 - 💬 Context-aware **conversational question-answering**
-- 🧠 Simulated persona: **25-year experienced researcher**
 - ⚙️ Built using the **LangChain** framework and **FAISS** for vector search
 
 ---
